@@ -1,6 +1,6 @@
 # Terms of Service for KR BOT
 
-Published Date: 4th of September, 2023
+Published Date: 7th of October, 2023
 
 Welcome to KR BOT! Please read these terms and conditions carefully before using the bot.
 
